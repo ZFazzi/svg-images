@@ -1,0 +1,8 @@
+<svg width="240" height="240" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="emoji" viewBox="-20 0 240 240">
+        <circle cx="110" cy="110" r="100" stroke-width="20" fill="#fbd971" stroke="#fbd971"/>
+        <polyline points="40,80 80,80" stroke="#f29c1f" stroke-width="15" stroke-linecap="round"/>
+        <polyline points="140,80 180,80" stroke="#f29c1f" stroke-width="15" stroke-linecap="round"/>
+        <polyline points="65,160 160,160" stroke="#f0c419" stroke-width="15" stroke-linecap="round"/>
+    </symbol>
+</svg>
